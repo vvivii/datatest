@@ -1,0 +1,86 @@
+[
+    {
+        "city": “Shasta Cascade”,
+    "latitude": 121.4278,
+        "longitude": 41.0683,
+    "max": 33.0,
+        "min": 24.0
+    },
+    {
+        "city": “North Coast”,
+    "latitude": 122.8631,
+        "longitude": 38.0193,
+    "max": 19.0,
+        "min": 12.0
+    },
+    {
+        "city": “Bay Area”,
+    "latitude": 122.2913,
+        "longitude": 37.8272,
+    "max": 21.0,
+        "min": 13.0
+    },
+    {
+        "city": “Central Valley”,
+    "latitude": 122.2011,
+        "longitude": 40.1999,
+    "max": 34.0,
+        "min": 18.0
+    },
+    {
+        "city": “Gold Country”,
+    "latitude": 120.8903,
+        "longitude": 38.7999,
+    "max": 32.0,
+        "min": 18.0
+    },
+    {
+        "city": “High Sierra”,
+    "latitude": 119.5742,
+        "longitude": 38.2692,
+    "max": 19.0,
+        "min": 15.0
+    },
+    {
+        "city": “Central Coast”,
+    "latitude": 119.7889,
+        "longitude": 36.9915,
+    "max": 18.0,
+        "min": 10.0
+    },
+    {
+        "city": “Los Angeles County”,
+    "latitude": 118.2437,
+        "longitude": 34.0522,
+    "max": 27.0,
+        "min": 17.0
+    },
+    {
+        "city": “Orange County”,
+    "latitude": 117.8311,
+        "longitude": 33.7175,
+    "max": 24.0,
+        "min": 18.0
+    },
+    {
+        "city": “San Diego County”,
+    "latitude": 117.1611,
+        "longitude": 32.7157,
+    "max": 20.0,
+        "min": 16.0
+    },
+    {
+        "city": “Inland Empire”,
+    "latitude": 116.4194,
+        "longitude": 34.9592,
+    "max": 32.0,
+        "min": 17.0
+    },
+    {
+        "city": “Deserts”,
+    "latitude": 115.4734,
+        "longitude": 35.0110,
+    "max": 32.0,
+        "min": 21.0
+    }
+]
